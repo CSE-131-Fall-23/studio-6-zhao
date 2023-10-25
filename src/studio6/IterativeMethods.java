@@ -19,7 +19,7 @@ public class IterativeMethods {
 		}
 		return sum;
 	}
-
+	
 	/**
 	 * @param p first operand
 	 * @param q second operand
